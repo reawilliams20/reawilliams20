@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hello, I'm Andrea. A Full Stack Software Engineer :woman_technologist:
+# Hello, I'm Andrea.
 
 I have many interests within the tech space. These include: AI, Machine Learning, Cloud Engineering, Mentoring and Teaching. 
 
